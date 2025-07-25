@@ -1,0 +1,72 @@
+{
+    "tasks": [
+        {
+            "name": "Set Clear Goals and Milestones",
+            "time": "30 minutes",
+            "xp": "50"
+        },
+        { "name": "Create a Study Schedule", "time": "30 minutes", "xp": "50" },
+        {
+            "name": "Review Basic Data Structures",
+            "time": "1 hour",
+            "xp": "100"
+        },
+        {
+            "name": "Practice Problems on Arrays and Strings",
+            "time": "1 hour",
+            "xp": "150"
+        },
+        {
+            "name": "Learn and Implement Linked Lists",
+            "time": "30 minutes",
+            "xp": "100"
+        },
+        {
+            "name": "Practice Problems on Linked Lists",
+            "time": "30 minutes",
+            "xp": "150"
+        },
+        {
+            "name": "Study and Implement Stacks and Queues",
+            "time": "30 minutes",
+            "xp": "100"
+        },
+        {
+            "name": "Practice Problems on Stacks and Queues",
+            "time": "30 minutes",
+            "xp": "150"
+        },
+        { "name": "Learn and Implement Trees", "time": "1 hour", "xp": "100" },
+        { "name": "Practice Problems on Trees", "time": "1 hour", "xp": "150" },
+        {
+            "name": "Study Graphs and their Algorithms",
+            "time": "1 hour",
+            "xp": "100"
+        },
+        {
+            "name": "Practice Problems on Graphs",
+            "time": "1 hour",
+            "xp": "150"
+        },
+        {
+            "name": "Review Sorting and Searching Algorithms",
+            "time": "1 hour",
+            "xp": "100"
+        },
+        {
+            "name": "Practice Problems on Sorting and Searching",
+            "time": "1 hour",
+            "xp": "150"
+        },
+        {
+            "name": "Mock Interviews and Timed Challenges",
+            "time": "1 hour",
+            "xp": "200"
+        },
+        {
+            "name": "Reflect on Progress and Adjust Plan",
+            "time": "30 minutes",
+            "xp": "50"
+        }
+    ]
+}

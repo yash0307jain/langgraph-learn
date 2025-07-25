@@ -1,0 +1,18 @@
+{
+    "user_name": "Yash",
+    "goal": "I want to improve my Data Structure and Algorithm skills to be on par and better to be able to crack MAANG interviews easily.",
+    "qualities_score": {
+        "Good with logical reasoning": 2.5,
+        "Know how to code in python": 3,
+        "Able to be consistent": 2,
+        "I have experience solving problem in Leetcode and codechef, and have takeuforward+ subscription as well": 2.5
+    },
+    "weakness": [
+        "Very bad in time management",
+        "Not able to focus",
+        "Can be distract very easily",
+        "Not able to work without deadline",
+        "not able to work without structure plan"
+    ],
+    "time_available": "4 hours/perday"
+}

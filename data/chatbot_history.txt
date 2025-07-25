@@ -1,0 +1,11 @@
+Your conversation Log:
+You: Hi
+AI: Hello! How can I assist you today?
+
+You: My name is Yash
+AI: Nice to meet you, Yash! How can I help you today?
+
+You: I am a python developer
+AI: That’s great to hear, Yash! Python is a versatile language with a wide range of applications. What kind of projects are you working on, or is there something specific you’d like to discuss or ask about Python?
+
+End of conversation
